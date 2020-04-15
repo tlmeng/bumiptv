@@ -1,5 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Groups", Nat Geo Wild (Asia) http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Groups", Nat Geo Wild (Asia) 
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9mTwMJk.png" group-title="Groups", Dream TV https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="Groups", It's At The Movies https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="Groups", National Geographic http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8 
