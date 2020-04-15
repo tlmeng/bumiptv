@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰香港" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" tvg-country="HK" tvg-url="" group-title="",鳳凰香港高清
-http://223.82.250.72/live/fhhongkong/1.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Groups", Nat Geo Wild (Asia) 
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
@@ -36,61 +33,61 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Groups", Movie-Hollywood Movies 5 
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="Bayon TV" tvg-logo="https://i.imgur.com/1TgC7mx.jpg" group-title="Khmer TV", KH-Bayon TV
+#EXTINF:-1 tvg-id="Bayon TV" tvg-logo="https://i.imgur.com/1TgC7mx.jpg" group-title="Khmer TV", Bayon TV
 https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/enPwRCx.jpg" group-title="Khmer TV", KH-Apsara TV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/enPwRCx.jpg" group-title="Khmer TV", Apsara TV 
 https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1aONdH2.jpg" group-title="Khmer TV", KH-Bayon TV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1aONdH2.jpg" group-title="Khmer TV", Bayon TV 
 https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4aynaVo.jpg" group-title="Khmer TV", KH-CNC News 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4aynaVo.jpg" group-title="Khmer TV", CNC News 
 https://1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UmgpRsj.jpg" group-title="Khmer TV", KH-CTN 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UmgpRsj.jpg" group-title="Khmer TV", CTN 
 https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KWjeTlX.jpg" group-title="Khmer TV", KH-CTV 8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KWjeTlX.jpg" group-title="Khmer TV", CTV 8 
 https://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DcR6zEw.jpg" group-title="Khmer TV", KH-D Music 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DcR6zEw.jpg" group-title="Khmer TV", D Music 
 https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cNKHpWf.jpg" group-title="Khmer TV", KH-ETV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cNKHpWf.jpg" group-title="Khmer TV", ETV 
 https://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pkL7DWY.jpg" group-title="Khmer TV", KH-MYTV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pkL7DWY.jpg" group-title="Khmer TV", MYTV 
 https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tJir5IG.jpg" group-title="Khmer TV", KH-Nice TV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tJir5IG.jpg" group-title="Khmer TV", Nice TV 
 https://1546733910.rsc.cdn77.org/LS-50041-SIN-14/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PtkwT8t.png" group-title="Khmer TV", KH-Hang MeasTV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PtkwT8t.png" group-title="Khmer TV", Hang MeasTV 
 https://1145067750.rsc.cdn77.org/LS-50041-SIN-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1xZmAvQ.jpg" group-title="Khmer TV", KH-PNN 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1xZmAvQ.jpg" group-title="Khmer TV", PNN 
 https://1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tlXkSGL.jpg" group-title="Khmer TV", KH-Reaksmey News 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tlXkSGL.jpg" group-title="Khmer TV", Reaksmey News 
 https://1363455353.rsc.cdn77.org/LS-50041-SIN-4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CXEv1dc.png" group-title="Khmer TV", KH-Sea TV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CXEv1dc.png" group-title="Khmer TV", Sea TV 
 http://203.189.147.211:1935/live/myStream_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NOYXAu2.jpg" group-title="Khmer TV", KH-Town TV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NOYXAu2.jpg" group-title="Khmer TV", Town TV 
 https://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hCt0pIy.jpg" group-title="Khmer TV", KH-TV3 HD 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hCt0pIy.jpg" group-title="Khmer TV", TV3 HD 
 https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dztT90I.jpg" group-title="Khmer TV", KH-TV5 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dztT90I.jpg" group-title="Khmer TV", TV5 
 https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KGbDcg1.jpg" group-title="Khmer TV", KH-TV9 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KGbDcg1.jpg" group-title="Khmer TV", TV9 
 https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GD4n70u.png" group-title="Khmer TV", KH-TVK 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GD4n70u.png" group-title="Khmer TV", TVK 
 https://1749089154.rsc.cdn77.org/LS-50041-SIN-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", LARVA TV 
