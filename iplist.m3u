@@ -1,18 +1,30 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Groups", Nat Geo Wild (Asia) 
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9mTwMJk.png" group-title="Groups", Dream TV https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="Groups", It's At The Movies https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="Groups", National Geographic http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Groups", Nat Geo Wild http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="Groups", Nat Geo People http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="Groups", Movie-24/7 Marvel Movies http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Groups", Movie-Action Movies http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Groups", Movie-Hollywood Movies 1 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Groups", Movie-Hollywood Movies 2 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Groups", Movie-Hollywood Movies 5 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8 
-#EXTINF:-1 tvg-id="Bayon TV" tvg-logo="https://i.imgur.com/1TgC7mx.jpg" group-title="Khmer TV", KH-Bayon TV https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/enPwRCx.jpg" group-title="Khmer TV", KH-Apsara TV https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9mTwMJk.png" group-title="Groups", Dream TV 
+https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="Groups", It's At The Movies 
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="Groups", National Geographic 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Groups", Nat Geo Wild 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="Groups", Nat Geo People 
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="Groups", Movie-24/7 Marvel Movies 
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Groups", Movie-Action Movies 
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Groups", Movie-Hollywood Movies 1 
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Groups", Movie-Hollywood Movies 2 
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="Groups", Movie-Hollywood Movies 5 
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8 
+#EXTINF:-1 tvg-id="Bayon TV" tvg-logo="https://i.imgur.com/1TgC7mx.jpg" group-title="Khmer TV", KH-Bayon TV 
+https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/enPwRCx.jpg" group-title="Khmer TV", KH-Apsara TV 
+https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1aONdH2.jpg" group-title="Khmer TV", KH-Bayon TV https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4aynaVo.jpg" group-title="Khmer TV", KH-CNC News https://1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UmgpRsj.jpg" group-title="Khmer TV", KH-CTN https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v1a1/mono.m3u8 
