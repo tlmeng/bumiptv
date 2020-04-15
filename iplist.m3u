@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="鳳凰香港" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" tvg-country="HK" tvg-url="" group-title="",鳳凰香港高清
+http://223.82.250.72/live/fhhongkong/1.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Groups", Nat Geo Wild (Asia) 
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
